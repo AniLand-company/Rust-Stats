@@ -23,5 +23,5 @@
 
 # 🖼️ Скришоты
 ---
-![Uploading image.png…]()
+![Uploading image.png…](https://media.discordapp.net/attachments/1446563704186474629/1447302882922856578/image.png?ex=69372158&is=6935cfd8&hm=6e93c6457bc54021a8556df22cac5c72a7d57061143aed530241d6709e48faa1&=&format=webp&quality=lossless&width=860&height=790)![Uploading image.png…](https://cdn.discordapp.com/attachments/1446563704186474629/1447303446905491687/image.png?ex=693721df&is=6935d05f&hm=ac4c1c95c6c3b64a91ed7f2644c90edcafedd4d6c3484b8fd920e0cad43cb992&)
 
